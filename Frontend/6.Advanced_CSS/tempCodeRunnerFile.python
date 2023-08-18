@@ -1,0 +1,5 @@
+a = {'abhsihek': 'name', 'gender': 'male'}
+print(a.items())
+
+for (key,value) in a.items():
+    print(key ,' - ' , value)

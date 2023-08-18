@@ -1,0 +1,23 @@
+{
+  "name": "learning_npm",
+  "version": "1.0.0",
+  "description": "I m learning npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "AbhishekNAik",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.7",
+    "npm": "^9.8.0",
+    "sillyname": "^0.1.0",
+    "superhero": "^2.13.6",
+    "superheroes": "^3.0.0"
+  }
+}
